@@ -1,0 +1,332 @@
+[
+  {
+    "assets": 31872597000,
+    "totalAssets": 29740000000,
+    "cash": 3686000000,
+    "cashflow": 2098000000,
+    "capEx": 2100724000,
+    "ceo": "Elon R. Musk",
+    "country": "USA",
+    "cogs": 85272000,
+    "date": "2018-12-31",
+    "debt": 2222000000,
+    "depreciationAndAmortization": 66000000,
+    "dividendPayout": null,
+    "dividendPerShare": null,
+    "ebit": -255000000,
+    "ebitda": -189000000,
+    "employees": 49000,
+    "eps": -5.65,
+    "exchange": "NASDAQ",
+    "fiscalYear": 2018,
+    "fiscalQuarter": 4,
+    "grossMargin": 18.83,
+    "grossProfit": 4042000000,
+    "incomeTax": 58000000,
+    "interestExpense": 663000000,
+    "netIncome": -976000000,
+    "netMargin": -4.55,
+    "operatingIncome": -388000000,
+    "operatingMargin": -1.81,
+    "researchAndDev": 1460000000,
+    "returnOnAssets": -3.28,
+    "returnOnCapitalEmployed": -1.29,
+    "returnOnEquity": -19.83,
+    "returnOnInvestedCapital": null,
+    "revenue": 21461000000,
+    "revenueSegments": {
+      "products": [
+        "Automotive",
+        "Energy",
+        "Services and Other"
+      ],
+      "productsSold": [
+        18096000000,
+        1555000000,
+        1391000000
+      ]
+    },
+    "productsUnitsSold": {
+      "products": [
+        "Model S/X",
+        "Model 3/Y"
+      ],
+      "productsSold": [
+        99394,
+        145846
+      ]
+    },
+    "shareholderEquity": 4923000000,
+    "sharesOutstanding": 172603000,
+    "stockBasedCompensation": 749024000,
+    "ticker": "TSLA",
+    "currentAssets": 8307000000,
+    "currentLiabilities": 9993000000,
+    "sellingGeneralAndAdministrative": 2835000000,
+    "stockRepurchase": null
+  },
+  {
+    "assets": 31872597000,
+    "totalAssets": 34309000000,
+    "cash": 6268000000,
+    "cashflow": 2405000000,
+    "capEx": 1332000000,
+    "ceo": "Elon R. Musk",
+    "country": "USA",
+    "cogs": 193000000,
+    "date": "2019-12-31",
+    "debt": 1399000000,
+    "depreciationAndAmortization": 343000000,
+    "dividendPayout": null,
+    "dividendPerShare": null,
+    "ebit": -67000000,
+    "ebitda": 276000000,
+    "employees": 48000,
+    "eps": -4.76,
+    "exchange": "NASDAQ",
+    "fiscalYear": 2019,
+    "fiscalQuarter": 4,
+    "grossMargin": 16.56,
+    "grossProfit": 4069000000,
+    "incomeTax": 110000000,
+    "interestExpense": 685000000,
+    "netIncome": -862000000,
+    "netMargin": -3.51,
+    "operatingIncome": -69000000,
+    "operatingMargin": -0.28,
+    "researchAndDev": 1343000000,
+    "returnOnAssets": -2.51,
+    "returnOnCapitalEmployed": -0.28,
+    "returnOnEquity": -13.03,
+    "returnOnInvestedCapital": null,
+    "revenue": 24578000000,
+    "revenueSegments": {
+      "products": [
+        "Automotive",
+        "Energy",
+        "Services and Other"
+      ],
+      "productsSold": [
+        20227000000,
+        1531000000,
+        2226000000
+      ]
+    },
+    "productsUnitsSold": {
+      "products": [
+        "Model S/X",
+        "Model 3/Y"
+      ],
+      "productsSold": [
+        66600,
+        300600
+      ]
+    },
+    "shareholderEquity": 6618000000,
+    "sharesOutstanding": 181000000,
+    "stockBasedCompensation": 898000000,
+    "ticker": "TSLA",
+    "currentAssets": 12103000000,
+    "currentLiabilities": 10667000000,
+    "sellingGeneralAndAdministrative": 2646000000,
+    "stockRepurchase": null
+  },
+  {
+    "assets": 31872597000,
+    "totalAssets": 52148000000,
+    "cash": 19384000000,
+    "cashflow": 5943000000,
+    "capEx": 3167000000,
+    "ceo": "Elon R. Musk",
+    "country": "USA",
+    "cogs": 289000000,
+    "date": "2020-12-31",
+    "debt": 1758000000,
+    "depreciationAndAmortization": 399000000,
+    "dividendPayout": null,
+    "dividendPerShare": null,
+    "ebit": 1761000000,
+    "ebitda": 2160000000,
+    "employees": 70000,
+    "eps": 0.75,
+    "exchange": "NASDAQ",
+    "fiscalYear": 2020,
+    "fiscalQuarter": 4,
+    "grossMargin": 21.02,
+    "grossProfit": 6630000000,
+    "incomeTax": 292000000,
+    "interestExpense": 748000000,
+    "netIncome": 721000000,
+    "netMargin": 2.29,
+    "operatingIncome": 1994000000,
+    "operatingMargin": 6.32,
+    "researchAndDev": 1491000000,
+    "returnOnAssets": 1.38,
+    "returnOnCapitalEmployed": 4.65,
+    "returnOnEquity": 3.24,
+    "returnOnInvestedCapital": null,
+    "revenue": 31536000000,
+    "revenueSegments": {
+      "products": [
+        "Automotive",
+        "Energy",
+        "Services and Other"
+      ],
+      "productsSold": [
+        25656000000,
+        1994000000,
+        2306000000
+      ]
+    },
+    "productsUnitsSold": {
+      "products": [
+        "Model S/X",
+        "Model 3/Y"
+      ],
+      "productsSold": [
+        57039,
+        442511
+      ]
+    },
+    "shareholderEquity": 22225000000,
+    "sharesOutstanding": 960000000,
+    "stockBasedCompensation": 1734000000,
+    "ticker": "TSLA",
+    "currentAssets": 26717000000,
+    "currentLiabilities": 14248000000,
+    "sellingGeneralAndAdministrative": 3145000000,
+    "stockRepurchase": null
+  },
+  {
+    "assets": 31872597000,
+    "totalAssets": 62131000000,
+    "cash": 17576000000,
+    "cashflow": 11497000000,
+    "capEx": 7982000000,
+    "ceo": "Elon R. Musk",
+    "country": "USA",
+    "cogs": 374000000,
+    "date": "2021-12-31",
+    "debt": 1088000000,
+    "depreciationAndAmortization": 466000000,
+    "dividendPayout": null,
+    "dividendPerShare": null,
+    "ebit": 6589000000,
+    "ebitda": 7055000000,
+    "employees": 99000,
+    "eps": 5.34,
+    "exchange": "NASDAQ",
+    "fiscalYear": 2021,
+    "fiscalQuarter": 4,
+    "grossMargin": 25.28,
+    "grossProfit": 13606000000,
+    "incomeTax": 699000000,
+    "interestExpense": 371000000,
+    "netIncome": 5519000000,
+    "netMargin": 10.25,
+    "operatingIncome": 6523000000,
+    "operatingMargin": 12.12,
+    "researchAndDev": 2593000000,
+    "returnOnAssets": 8.88,
+    "returnOnCapitalEmployed": 15.53,
+    "returnOnEquity": 18.28,
+    "returnOnInvestedCapital": null,
+    "revenue": 53823000000,
+    "revenueSegments": {
+      "products": [
+        "Automotive",
+        "Energy",
+        "Services and Other"
+      ],
+      "productsSold": [
+        45767000000,
+        2789000000,
+        3802000000
+      ]
+    },
+    "productsUnitsSold": {
+      "products": [
+        "Model S/X",
+        "Model 3/Y"
+      ],
+      "productsSold": [
+        24964,
+        911208
+      ]
+    },
+    "shareholderEquity": 30189000000,
+    "sharesOutstanding": 1033000000,
+    "stockBasedCompensation": 2121000000,
+    "ticker": "TSLA",
+    "currentAssets": 27100000000,
+    "currentLiabilities": 19705000000,
+    "sellingGeneralAndAdministrative": 4517000000,
+    "stockRepurchase": null
+  },
+  {
+    "assets": 31872597000,
+    "totalAssets": 82338000000,
+    "cash": 16253000000,
+    "cashflow": 14724000000,
+    "capEx": 7158000000,
+    "ceo": "Elon R. Musk",
+    "country": "USA",
+    "cogs": 604000000,
+    "date": "2022-12-31",
+    "debt": 1016000000,
+    "depreciationAndAmortization": 493000000,
+    "dividendPayout": null,
+    "dividendPerShare": null,
+    "ebit": 13879000000,
+    "ebitda": 14372000000,
+    "employees": 127000,
+    "eps": 3.97,
+    "exchange": "NASDAQ",
+    "fiscalYear": 2022,
+    "fiscalQuarter": 4,
+    "grossMargin": 25.6,
+    "grossProfit": 20853000000,
+    "incomeTax": 1132000000,
+    "interestExpense": 191000000,
+    "netIncome": 12556000000,
+    "netMargin": 15.41,
+    "operatingIncome": 13656000000,
+    "operatingMargin": 16.76,
+    "researchAndDev": 3075000000,
+    "returnOnAssets": 15.25,
+    "returnOnCapitalEmployed": 24.95,
+    "returnOnEquity": 28.09,
+    "returnOnInvestedCapital": null,
+    "revenue": 81462000000,
+    "revenueSegments": {
+      "products": [
+        "Automotive",
+        "Energy",
+        "Services and Other"
+      ],
+      "productsSold": [
+        69686000000,
+        3909000000,
+        6091000000
+      ]
+    },
+    "productsUnitsSold": {
+      "products": [
+        "Model S/X",
+        "Model 3/Y"
+      ],
+      "productsSold": [
+        66705,
+        1247146
+      ]
+    },
+    "shareholderEquity": 44704000000,
+    "sharesOutstanding": 3164000000,
+    "stockBasedCompensation": 1560000000,
+    "ticker": "TSLA",
+    "currentAssets": 40917000000,
+    "currentLiabilities": 26709000000,
+    "sellingGeneralAndAdministrative": 3946000000,
+    "stockRepurchase": null
+  }
+]
